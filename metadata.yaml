@@ -1,0 +1,46 @@
+_repo: Three-Articles-on-Metaphor--13-Society-for-Pure-English-Tract-11_13311
+_version: 0.1.0
+contributor:
+  contributors:
+  - agent_name: Daryush, Elizabeth Bridges
+    alias: Bridges, Elizabeth
+    birthdate: 1887
+    deathdate: 1977
+    gutenberg_agent_id: '39564'
+    url: http://www.gutenberg.org/2009/agents/39564
+  - agent_name: Fowler, H. W. (Henry Watson)
+    alias: Fowler, Henry Watson
+    birthdate: 1858
+    deathdate: 1933
+    gutenberg_agent_id: '1998'
+    url: http://www.gutenberg.org/2009/agents/1998
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Watson_Fowler
+  - agent_name: Clutton-Brock, A. (Arthur)
+    alias: Clutton-Brock, Arthur
+    birthdate: 1868
+    deathdate: 1924
+    gutenberg_agent_id: '6524'
+    url: http://www.gutenberg.org/2009/agents/6524
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Society for Pure English
+    alias: English, Society for Pure
+    gutenberg_agent_id: '4335'
+    url: http://www.gutenberg.org/2009/agents/4335
+description: ''
+gutenberg_issued: '2004-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13311'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PE'
+- !lcsh 'Metaphor'
+title: "Three Articles on Metaphor\r\nSociety for Pure English, Tract 11"
+url: http://www.gutenberg.org/ebooks/13311
