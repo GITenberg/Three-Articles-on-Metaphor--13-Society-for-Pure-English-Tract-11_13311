@@ -31,6 +31,8 @@ creator:
     gutenberg_agent_id: '4335'
     url: http://www.gutenberg.org/2009/agents/4335
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13311#Three-Articles-on-Metaphor--13-Society-for-Pure-English-Tract-11
 gutenberg_issued: '2004-08-28'
 gutenberg_type: Text
 identifiers:
